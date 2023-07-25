@@ -1,0 +1,15 @@
+h3{
+
+    background-color:rgb(204, 204, 204) ;
+}
+h1{
+    text-align: center;
+}
+body{
+    border: 2px solid; border-color: rgb(195, 144, 72);
+    border-width:5px 5px 5px 5px;
+    border-radius: 20px;
+    background-color:beige;
+    
+    padding: 20px;
+}
